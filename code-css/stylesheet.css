@@ -1,11 +1,4 @@
-/*Custom Elements*/
 
-/* Nuevo css para StructurePages */
-*{
-  margin: 0px;
-  padding: 0px;
-}
-a {text-decoration: none;}
 
 #main{background-color: #FF6600; border-radius: 0.5em;width: 1200px;height: 650px;margin:0.5em auto;
       padding:0.5em;}
