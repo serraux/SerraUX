@@ -1,5 +1,15 @@
 /*Custom Elements*/
 
+/* Nuevo css para StructurePages */
+*{
+  margin: 0px;
+  padding: 0px;
+}
+a {text-decoration: none;}
+
+#main{background-color: #E6F1F7;border-radius: 0.5em;width: 1200px;height: 650px;margin:0.5em auto;
+      padding:0.5em;}
+
 
 .blue{background-color: #3535BF;}
 .bluelight{background-color: #CCCCEF;}
